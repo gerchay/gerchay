@@ -18,7 +18,7 @@
 
 [<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerchay&layout=compact" alt="gerchay"/>](https://github.com/anuraghazra/github-readme-stats)
 
-- 💬 Pregúntame sobre:  **Angular, .NET, NodeJS**
+- 💬 Pregúntame sobre:  **Angular, Ionic, NodeJS**
 - 📫 Cómo contactarme: **gerardo15.chay97@gmail.com**
 - 🌱 Actualmente estoy aprendiendo: **React-Native, ReactJS**
 - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gerardo-chay"  height='20'/> Perfil de Linkedin [Chay](https://www.linkedin.com/in/gerardo-chay-97967b197/)
