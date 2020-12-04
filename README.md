@@ -1,9 +1,10 @@
-<h2>Hey there 👋🏽 </h2>
+# Hey there 👋🏽 
 
 <p align="center" >
   <samp>
-  Welcome to my profile! <br/>
-  My name is <em>Gerardo Chay</em>. I'm a Student of Systems Engineering 🎓 at <a href="https://www.usac.edu.gt/">University San Carlos.</a> <br/> I'm a Web Developer and Mobile Developer 🚀 from Guatemala.
+  Welcome to my profile!  <br/>
+   My name is <em>Gerardo Chay</em> <br/>
+   I'm a Student of Systems Engineering 🎓 at <a href="https://www.usac.edu.gt/">University San Carlos.</a> <br/> I'm a Web Developer and Mobile Developer 🚀 from Guatemala.
   </samp>
   <br/>
   <br/>
@@ -12,11 +13,13 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+
+
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> A little more about me... 
 ```javascript
 const chay = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java"],
+    code: ["Javascript", "Typescript", "HTML", "CSS", "C#", "Python"],
     askMeAbout: ["web dev", "mobile dev", "legue of leguend"],
     technologies: {
         mobileApp: ["Ionic", "React-Native"],
@@ -36,10 +39,19 @@ const chay = {
     challenge: "I am learning on Kubernetes"
 };
 ```
-
 <br/>
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> Connect with Me 
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerchay&layout=compact" alt="gerchay"/>
+  </a>
+</p>
+
+
+<br/>
+<br/>
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">  Connect with Me:
 <p align="center">
   <a href="https://www.instagram.com/gchay_g/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
