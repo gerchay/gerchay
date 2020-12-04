@@ -1,7 +1,5 @@
 <h2>Hey there 👋🏽 </h2>
 
----
-
 <p align="center" >
   <samp>
   Welcome to my profile! <br/>
