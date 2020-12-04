@@ -1,24 +1,64 @@
-<h2 align="center">
-  Hola  <img src="https://raw.githubusercontent.com/jhonPariona/images/master/ProfileReadme/Hi.gif" alt="hello" height="30"/>
-  , Mi nombre es Gerardo Chay
-</h2>
+<h2>Hey there 👋🏽 </h2>
 
-<!-- presentation -->
-<h4 align="center"> 
-  Bienvenido a mi Repositorio de GitHub 
-  <img src="https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" alt="octocat" height="30"/>
-</h4>
+---
 
-<br/>
-<p align="center"> 
-  Soy estudiante de Ingenieria en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala. 
-  Me gusta aprender sobre los framework modernos para el Desarrollo web o FullStack
+<p align="center" >
+  <samp>
+  Welcome to my profile! <br/>
+  My name is <em>Gerardo Chay</em>. I'm a Student of Systems Engineering 🎓 at <a href="https://www.usac.edu.gt/">University San Carlos.</a> <br/> I'm a Web Developer and Mobile Developer 🚀 from Guatemala.
+  </samp>
+  <br/>
+  <br/>
+  <br/>
 </p>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> A little more about me... 
+```javascript
+const chay = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java"],
+    askMeAbout: ["web dev", "mobile dev", "legue of leguend"],
+    technologies: {
+        mobileApp: ["Ionic", "React-Native"],
+        frontEnd: {
+            js: ["React", "Redux", "Jest", "Angular", "Jasmin and Karma"],
+            css: ["Material", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker"],
+        databases: ["MongoDB", "MySql", "PostgreSQL"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "MVC", "Single page applications"],
+    challenge: "I am learning on Kubernetes"
+};
+```
+
 <br/>
 
-[<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerchay&layout=compact" alt="gerchay"/>](https://github.com/anuraghazra/github-readme-stats)
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> Connect with Me 
+<p align="center">
+  <a href="https://www.instagram.com/gchay_g/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/gerardo-chay-97967b197/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="https://discord.gg/KgF4WGf">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="mailto:gerardo15.chay97@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
+  </a>
+</p>
 
-- 💬 Pregúntame sobre:  **Angular, Ionic, NodeJS**
-- 📫 Cómo contactarme: **gerardo15.chay97@gmail.com**
-- 🌱 Actualmente estoy aprendiendo: **React-Native, ReactJS**
-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gerardo-chay"  height='20'/> Perfil de Linkedin [Chay](https://www.linkedin.com/in/gerardo-chay-97967b197/)
+
+---
+
+
+⭐️ From [@gerchay](https://github.com/gerchay)
