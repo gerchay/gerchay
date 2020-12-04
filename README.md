@@ -1,6 +1,4 @@
-<h2>Hey there 👋🏽 </h2>
-
----
+# Hey there 👋🏽 
 
 <p align="center" >
   <samp>
