@@ -19,7 +19,7 @@
 ```javascript
 const chay = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "HTML", "CSS", "C#", "Python"],
+    code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "GO"],
     askMeAbout: ["web dev", "mobile dev", "legue of leguend"],
     technologies: {
         mobileApp: ["Ionic", "React-Native"],
@@ -31,7 +31,7 @@ const chay = {
             js: ["node", "express"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker"],
+        devOps: ["AWS", "Docker", "Google"],
         databases: ["MongoDB", "MySql", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO"]
     },
