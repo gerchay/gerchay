@@ -19,23 +19,21 @@
 ```javascript
 const chay = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "GO"],
-    askMeAbout: ["web dev", "mobile dev", "legue of leguend"],
+    code: ["Javascript", "Typescript", "HTML", "CSS", "GO"],
+    askMeAbout: ["web dev", "mobile dev"],
     technologies: {
         mobileApp: ["Ionic", "React-Native"],
         frontEnd: {
             js: ["React", "Redux", "Jest", "Angular", "Jasmin and Karma"],
-            css: ["Material", "bootstrap"]
+            css: ["Material", "bootstrap", "Nebular"]
         },
         backEnd: {
-            js: ["node", "express"],
-            python: ["flask"]
+            js: ["node", "express"]
         },
         devOps: ["AWS", "Docker", "Google"],
         databases: ["MongoDB", "MySql", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "MVC", "Single page applications"],
     challenge: "I am learning on Kubernetes"
 };
 ```
